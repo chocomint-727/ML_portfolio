@@ -1,5 +1,6 @@
 trained/MLM.pt
 trained/MLM_arxiv.pt
+trained/SentenceEnc.pt
 whereswaldo.pt
 data/facad_dataset/*
 data/arxiv_data/*
