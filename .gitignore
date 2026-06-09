@@ -5,3 +5,10 @@ whereswaldo.pt
 data/facad_dataset/*
 data/arxiv_data/*
 trained/reconstructed_model.pt
+.env
+trained/SentenceEncProj.pt
+vector_db/db_files
+vector_db/mpnet_tokenizer
+vector_db/whereswaldo*
+vector_db/articles.json
+trained_tokenizer/*
